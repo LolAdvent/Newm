@@ -4,5 +4,5 @@
 What'd ya learn
 
 ### live links
-[InteralScripts] (https://loladvent.github.io/Newm/)
-[ExternalScripts] (https://github.com/LolAdvent/Newm/tree/main/homework-2)
+[InteralScripts](https://loladvent.github.io/Newm/homework-2\index.html)
+[ExternalScripts](https://loladvent.github.io/Newm/homework-2\Untitled-1.html)
