@@ -2,15 +2,18 @@
 
 ### Recap
 What'd ya learn
-just like in any other languaue, there are boolean, string inter and float
+I learned about the operators and variables in javascripts
+variables: let, const, var
+operators: +,-,*,**,/,%
+assign: =, +=, -=, --, ++
+comparison: ==, ===, !=, !==, <,>
+logic: &&,||,!
+typeof
 
-console methods: each console method used to give a certain output
-    ex.:console.log,console.error,console.warning
-inline scirpt: writing without use of external file
-
-external scripts: using a seperate js file to store lines of code that is then linked back to the main excutable file. used for cleaner code structres
+selfnote:
+compared to c++ and python, html and java seem a bit more loose in terms of strict coding
 
 
 ### live links
-[InteralScripts](https://loladvent.github.io/Newm/homework-2\index.html)
-[ExternalScripts](https://loladvent.github.io/Newm/homework-2\Untitled-1.html)
+[InteralScripts](https://loladvent.github.io/Newm/homework-3\index.html)
+[ExternalScripts](https://loladvent.github.io/Newm/homework-3\login.html)

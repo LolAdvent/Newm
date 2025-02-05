@@ -13,7 +13,7 @@ console.log("The perimeter of the circle is: " + perimeter.toFixed(2));
 
 /*
 Explanation of Variable Declarations:
-- `const radius`: The radius is a fixed value (5), so using `const` ensures it cannot be changed accidentally.
-- `const area`: Since area is derived from a fixed radius, it remains constant after calculation.
-- `const perimeter`: The perimeter is also derived from a fixed radius, so it remains constant as well.
+const radi: The radius is a fixed value (5)
+const area: Since area is comes from the fixed radius, it remains constant
+const perimeter: The perimeter is also comes from the fixed radius, it remains constan.
 */
